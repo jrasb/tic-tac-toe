@@ -34,12 +34,12 @@ button:hover {
 }
 
 #cross {
-    background: url(../img/cross.png);
+    background: url(../img/cross.svg);
     background-size: cover;
 }
 
 #circle {
-    background: url(../img/circle.png);
+    background: url(../img/circle.svg);
     background-size: cover;
 }
 

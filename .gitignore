@@ -1,2 +1,4 @@
 # ignore the files created due to VSCODE
 .vscode
+# ignore the update document (only for teacher)
+updateDocument.txt
